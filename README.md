@@ -10,11 +10,11 @@
 
 ### Programming languages that I use :
 
-<img align="left" alt="nodejs" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/nodejs.svg" />
-<img align="left" alt="js" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/js.svg" />
+<img align="left" alt="nodejs" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/nodejs.svg" />
+<img align="left" alt="js" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/js.svg" />
 <img align="left" alt="python" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/python.svg" />
-<img align="left" alt="html" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/html.svg" />
-<img align="left" alt="css" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/css.svg" />
+<img align="left" alt="html" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/html.svg" />
+<img align="left" alt="css" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/css.svg" />
 
 <br />
 
