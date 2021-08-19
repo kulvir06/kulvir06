@@ -12,6 +12,11 @@
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulvir06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br/>
+
 ### Programming languages that I use :
 
 <img align="left" alt="nodejs" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/nodejs.svg" />
