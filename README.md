@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saxenamansi)](https://github.com/anuraghazra/github-readme-stats)
+[![Kulvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulvir06)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 ### Programming languages that I use :
