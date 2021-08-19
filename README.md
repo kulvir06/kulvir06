@@ -7,7 +7,8 @@
 ## Fullstack Developer and Blockchain enthusiast.
 
 <br/>
-
+[![My Github Stats](https://github-readme-stats.vercel.app/api/pin/?username=kulvir06)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 ### Programming languages that I use :
 
 <img align="left" alt="nodejs" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/nodejs.svg" />
@@ -18,7 +19,7 @@
 
 <br />
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api/pin/?username=kulvir06&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Social Media :
