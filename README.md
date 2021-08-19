@@ -7,8 +7,8 @@
 ## Fullstack Developer and Blockchain enthusiast.
 
 <br/>
-![Profile views](https://gpvc.arturio.dev/kulvir06)
-[![Kulvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulvir06)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Kulvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulvir06&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 ### Programming languages that I use :
