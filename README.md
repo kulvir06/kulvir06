@@ -18,6 +18,9 @@
 
 <br />
 
+[![My Github Stats](https://github-readme-stats.vercel.app/api/pin/?username=kulvir06&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Social Media :
 
 [<img align="left" alt="Anmol | LinkedIn" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/linkedin.svg" />][linkedin]
