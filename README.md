@@ -20,10 +20,10 @@
 
 ### Social Media :
 
-[<img align="left" alt="Anmol | LinkedIn" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/linkedin.svg" />][linkedin]
-[<img align="left" alt="Website" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/globe.svg" />][website]
-[<img align="left" alt="Anmol | Insta" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/instagram.svg" />][instagram]
-[<img align="left" alt="Anmol | Twitter" width="20px" src="https://github.com/anmolbhardwaj17/for-readme/blob/main/twitter.svg" />][twitter]
+[<img align="left" alt="Anmol | LinkedIn" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/linkedin.svg" />][linkedin]
+[<img align="left" alt="Website" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/globe.svg" />][website]
+[<img align="left" alt="Anmol | Insta" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/instagram.svg" />][instagram]
+[<img align="left" alt="Anmol | Twitter" width="20px" src="https://github.com/kulvir06/forreadme/blob/main/twitter.svg" />][twitter]
 
 
 
@@ -32,7 +32,7 @@
 
 
 ---
-[website]: https://portfolio-anmol-c7e12.web.app/
-[twitter]: https://twitter.com/anmolbhardwajj
-[instagram]: https://www.instagram.com/bankrupt.designs/
-[linkedin]: https://www.linkedin.com/in/anmolbhardwaj/
+[website]: https://kulvir06.github.io/Quick-Portfolio/
+[twitter]: https://twitter.com/Kulvir0_6
+[instagram]: https://www.instagram.com/kulvir0_6/
+[linkedin]: https://in.linkedin.com/in/kulvir-singh-306502196
