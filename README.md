@@ -7,7 +7,8 @@
 ## Fullstack Developer and Blockchain enthusiast.
 
 <br/>
-[![My Github Stats](https://github-readme-stats.vercel.app/api/pin/?username=kulvir06)](https://github.com/anuraghazra/github-readme-stats)
+![Kulvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulvir06&show_icons=true&theme=radical)
+
 <br/>
 ### Programming languages that I use :
 
