@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kulvir0_6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kulvir0_6)
 
 
-## Fullstack Developer and Blockchain enthusiast.
+## Fullstack Developer and Agentic AI enthusiast.
 
 <br/>
 
