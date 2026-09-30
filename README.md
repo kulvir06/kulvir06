@@ -1,61 +1,50 @@
 <div align="center">
 
-# Hi, I'm Kulvir Singh 👋
+# Hey, I'm Kulvir 👋
 
-### Software Engineer · M.S. Computer Science @ USC
+### Software Engineering Intern @ IMDb 🎬
 
-I build reliable backend systems, developer tools, and AI-powered applications.
+I like building things that make slow, complicated work feel simple.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kulvir-singh-306502196/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kulvir06singh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kulvir06-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kulvir06)
+[![LinkedIn](https://img.shields.io/badge/let's_connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kulvir-singh-306502196/)
+[![Email](https://img.shields.io/badge/say_hello-email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kulvir06singh@gmail.com)
 
 </div>
 
-## About me
+## A little about me
 
-- 🎓 Pursuing an **M.S. in Computer Science** at the **University of Southern California** (2025–2027)
-- 💼 Previously a **Software Development Engineer at Walmart Global Tech**, building automation and security infrastructure at scale
-- 🧠 Interested in **distributed systems, full-stack development, developer productivity, and agentic AI**
-- 🔭 Currently building practical tools with **Go, Python, JavaScript, React, and local LLMs**
+- 🎥 Currently building at **[IMDb](https://www.imdb.com/)**, an Amazon company
+- ⚙️ Previously an SDE at **Walmart Global Tech**, where I automated security infrastructure and built systems that operated at serious scale
+- 🤖 Usually experimenting with developer tools, local LLMs, distributed systems, or whatever has caught my curiosity that week
+- ⚽ Away from the keyboard, you'll probably find me playing soccer
 
-## Experience highlights
+## Things I've built
 
-At **Walmart Global Tech**, I:
+🧩 **[NeetGit](https://github.com/kulvir06/NeetGit)** — send solutions from NeetCode to GitHub in one click
 
-- Automated PCI firewall-rule deployment, reducing turnaround time from **7 days to 1 hour**
-- Built a Go-based SSL scanner using Kafka, PostgreSQL, Prometheus, and Elasticsearch to scan **300M+ IPs in under 6 hours**
-- Developed a certificate-renewal portal that reduced processing time from **4 days to 3 minutes** across **1,500+ devices**
-- Migrated five automation bots from Power Automate to Python, reducing annual cost from **$13K to under $100**
+🧠 **[This Role Sucks](https://github.com/kulvir06/this-role-sucks)** — compare a resume with a job description using a local LLM
 
-## Featured projects
+🚦 **[Road Safety Violation Recorder](https://github.com/kulvir06/road-safety-violation-recording-system)** — a MERN + Firebase reporting platform built during my Tata Steel internship
 
-| Project | What it does | Tech |
-| --- | --- | --- |
-| [NeetGit](https://github.com/kulvir06/NeetGit) | Chrome extension that extracts solutions from NeetCode and prepares a GitHub commit in one click | JavaScript, Chrome Extensions, GitHub |
-| [This Role Sucks](https://github.com/kulvir06/this-role-sucks) | Local LLM tool that compares a resume with a job description and suggests missing ATS keywords | Python, Ollama, Llama 3.1 |
-| [Road Safety Violation Recording System](https://github.com/kulvir06/road-safety-violation-recording-system) | Reporting platform built during my Tata Steel internship, with authentication and image uploads | MERN, Firebase, JWT |
-| [RCA Image Encryption](https://github.com/kulvir06/RCA-Encryption-Flask-Project) | Image encryption and decryption using a 3D Rubik's Cube algorithm | Python, Flask, OpenCV |
+## My toolbox
 
-## Tech I work with
+`Go` · `Python` · `JavaScript` · `React` · `Node.js` · `PostgreSQL` · `Kafka` · `Docker` · `AWS` · `Ollama`
 
-- **Languages:** Go · Python · JavaScript · Java · C++ · SQL
-- **Backend & data:** Node.js · Express · Django · Spring Boot · PostgreSQL · MySQL · MongoDB · Redis · Kafka
-- **Frontend:** React · HTML · CSS
-- **Cloud & tooling:** Docker · Kubernetes · AWS · Git · Prometheus · Elasticsearch
-- **AI / ML:** Ollama · TensorFlow · PyTorch · Computer Vision
+<details>
+<summary><b>A couple of numbers I’m proud of</b></summary>
+<br>
 
-## Education
+- Built a Go-based scanner that covered **300M+ IPs in under 6 hours**
+- Cut a certificate-renewal workflow from **4 days to 3 minutes** across **1,500+ devices**
 
-- **University of Southern California** — M.S. in Computer Science, 2025–2027
-- **Vellore Institute of Technology** — B.Tech in Computer Science, 2019–2023 · GPA: **9.39/10** (Top 10%)
+</details>
+
+---
 
 <div align="center">
 
-### Let's connect
+**Always happy to talk about interesting problems, useful tools, or football.**
 
-I'm always interested in thoughtful conversations about software engineering, AI, and useful developer tools.
-
-[LinkedIn](https://www.linkedin.com/in/kulvir-singh-306502196/) · [Email](mailto:kulvir06singh@gmail.com) · [GitHub](https://github.com/kulvir06)
+[LinkedIn](https://www.linkedin.com/in/kulvir-singh-306502196/) · [Email](mailto:kulvir06singh@gmail.com)
 
 </div>
